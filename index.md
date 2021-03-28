@@ -17,6 +17,7 @@ My past and ongoing work include:
 
 ### Publications
 
+1. Bian, Qingyun; Xu, Zhongfeng; *Zheng, Hui*; Li, Kai; Liang, Jingjing; Fei, Wenli; Shi, Chunxiang; Zhang, Shuai & Yang, Zong-Liang\* (2020). Multiscale changes in snow over the Tibetan Plateau during 1980–2018 represented by reanalysis data sets and satellite observations. Journal of Geophysical Research: Atmospheres, 125(19), e2019JD031914. <https://doi.org/10.1029/2019JD031914>
 1. Li, Lingcheng; She, Dunxian\*; *Zheng, Hui\**; Lin, Peirong & Yang, Zong-Liang (2020). Elucidating diverse drought characteristics from two meteorological drought indices (SPI and SPEI) in China. Journal of Hydrometeorology, 21(7), 1513–1530. <https://doi.org/10.1175/JHM-D-19-0290.1>
 1. Liang, Jingjing; Yang, Zong-Liang\*; Cai, Xitian; Lin, Peirong; *Zheng, Hui* & Bian, Qingyun (2020). Modeling the impacts of nitrogen dynamics on regional terrestrial carbon and water cycles over China with Noah-MP-CN. Advances in Atmospheric Sciences, 37(7), 679–695. <https://doi.org/10.1007/s00376-020-9231-6>
 1. Bian, Qingyun; Xu, Zhongfeng; Zhao, Long; Zhang, Yong-Fei; *Zheng, Hui*; Shi, Chunxiang; Xie, Conghui & Yang, Zong-Liang\* (2019). Evaluation and intercomparison of multiple snow water equivalent products over the Tibetan Plateau. Journal of Hydrometeorology, 20(10), 2043–2055. <https://doi.org/10.1175/JHM-D-19-0011.1>
