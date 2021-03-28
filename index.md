@@ -17,6 +17,7 @@ My past and ongoing work include:
 
 ### Publications
 
+1. Lv, Meizhao; Yang, Zong-Liang\*; Xu, Zhongfeng\*; Dan, Li; Lv, Meixia & *Zheng, Hui* (2021). A soil moisture-dependent model to simulate water table depth and proportions of surface and subsurface runoff and its validation at the basin scale. Journal of Geophysical Research: Atmospheres, 126(4), e2020JD033661. <https://doi.org/10.1029/2020JD033661>
 1. *Zheng, Hui*; Yang, Zong-Liang\*; Lin, Peirong; Wu, Wen-Ying; Li, Lingcheng; Xu, Zhongfeng; Wei, Jiangfeng; Zhao, Long; Bian, Qingyun & Wang, Shu (2020). Falsification-oriented signature-based evaluation for guiding the development of land surface models and the enhancement of observations. Journal of Advances in Modeling Earth Systems, 12(12), e2020MS002132. <https://doi.org/10.1029/2020MS002132>
 1. Bian, Qingyun; Xu, Zhongfeng; *Zheng, Hui*; Li, Kai; Liang, Jingjing; Fei, Wenli; Shi, Chunxiang; Zhang, Shuai & Yang, Zong-Liang\* (2020). Multiscale changes in snow over the Tibetan Plateau during 1980–2018 represented by reanalysis data sets and satellite observations. Journal of Geophysical Research: Atmospheres, 125(19), e2019JD031914. <https://doi.org/10.1029/2019JD031914>
 1. Li, Lingcheng; She, Dunxian\*; *Zheng, Hui\**; Lin, Peirong & Yang, Zong-Liang (2020). Elucidating diverse drought characteristics from two meteorological drought indices (SPI and SPEI) in China. Journal of Hydrometeorology, 21(7), 1513–1530. <https://doi.org/10.1175/JHM-D-19-0290.1>
