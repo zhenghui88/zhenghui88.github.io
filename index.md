@@ -34,6 +34,11 @@ My past and ongoing work include:
 1. *郑辉* & 刘树华\*. (2013). 沙漠陆面过程参数化与模拟. 地球物理学报, 56(7), 2207–2217. <https://doi.org/10.6038/cjg20130708>
 1. *郑辉* & 刘树华\*. (2012). 数值差分格式及格点设置对土壤温度模拟结果的影响. 地球物理学报, 55(8), 2514–2522. <https://doi.org/10.6038/j.issn.0001-5733.2012.08.004>
 
+### Projects
+
+1. 2021-01 to 2024-12, A Global-Scale Soil Moisture Multi-Parameterization Inter-Comparison Experiment, National Natural Science Foundation of China (grant 42075165), ¥580K, PI.
+1. 2017-01 to 2019-12, The Effects of the Grain for Green Project on the Regional Terrestrial Water storage in the Loess Plateau using Ensemble Hydrological Simulations, National Natural Science Foundation of China (grant 41605062), ¥190K, PI.
+
 ### Opportunities
 
 I am hiring [two master students](http://www.iap.cas.cn/gb/yjsjy_165427/dsjs) who are interested in land surface model development, ensemble simulations, and applications.
