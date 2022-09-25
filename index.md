@@ -38,8 +38,9 @@ My past and ongoing work include:
 
 ### Projects
 
-1. 2021-01 to 2024-12, A Global-Scale Soil Moisture Multi-Parameterization Inter-Comparison Experiment, National Natural Science Foundation of China (grant 42075165), ¥580K, PI.
-1. 2017-01 to 2019-12, The Effects of the Grain for Green Project on the Regional Terrestrial Water storage in the Loess Plateau using Ensemble Hydrological Simulations, National Natural Science Foundation of China (grant 41605062), ¥190K, PI.
+1. 2023-01 to 2026-12, Falsification-oriented signature-based evaluation methods of the scientific hypotheses underlying land surface models using multiple imbalanced energy and water budget observations, National Natural Science Foundation of China (grant 42275178), ¥715K, PI.
+1. 2021-01 to 2024-12, A global-scale soil moisture multi-parameterization inter-comparison experiment, National Natural Science Foundation of China (grant 42075165), ¥677K, PI.
+1. 2017-01 to 2019-12, The effects of the Grain for Green Project on the regional terrestrial water storage in the Loess Plateau using ensemble hydrological simulations, National Natural Science Foundation of China (grant 41605062), ¥224K, PI.
 
 ### Opportunities
 
