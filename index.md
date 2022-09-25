@@ -10,10 +10,10 @@ Office: [40 Huayanli #2.302, Chaoyang, Beijing, China](https://cn.bing.com/maps?
 
 I am a senior engineer at [Institute of Atmospheric Physics](http://www.iap.cas.cn/), [Chinese Academy of Sciences](http://www.cas.cn/).
 
-My past and ongoing work include:
-- land surface model development and process improvement,
-- land surface ensemble simulation and parameterization inter-comparison over the large domain,
-- coupling land surface models with river routing models for large-domain streamflow predictions.
+My research focuses on:
+- land model development,
+- physics-data integration,
+- high-resolution hindcast, nowcast, and forecast of droughts and floods over large domains.
 
 ### Publications
 
