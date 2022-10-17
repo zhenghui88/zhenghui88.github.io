@@ -44,4 +44,4 @@ My research focuses on:
 
 ### Opportunities
 
-I am hiring [two master students](http://www.iap.cas.cn/gb/yjsjy_165427/dsjs) who are interested in land surface model development, ensemble simulations, and applications.
+I am recruiting [two master students](http://www.iap.cas.cn/gb/yjsjy_165427/dsjs) who are interested in land surface model development, ensemble simulations, and applications.
