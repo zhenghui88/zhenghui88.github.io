@@ -17,6 +17,7 @@ My research focuses on:
 
 ### Publications
 
+1. Huang, Fang; Xu, Zhongfeng\*; Guo, Weidong; Feng, Jinming; Chen, Liang; *Zheng, Hui*; Fu, Congbin (2023). Relative contributions of internal variability and external forcing to the inter-decadal transition of climate patterns in East Asia. npj Climate and Atmospheric Science, 6(1), 1-9. <https://doi.org/10.1038/s41612-023-00351-0>
 1. Zhao, Long\*; Yang, Kun; He, Jie; *Zheng, Hui*; Zheng, Donghai (2022). Potential of mapping global soil texture type from SMAP soil moisture product: a pilot study. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-10. <https://doi.org/10.1109/TGRS.2021.3119667>
 1. Fei, Wenli; *Zheng, Hui*\*; Xu, Zhongfeng; Wu, Wen-Ying; Lin, Peirong; Tian, Ye; Guo, Mengyao; She, Dunxian; Li, Lingcheng; Li, Kai; Yang, Zong-Liang\* (2021). Ensemble skill gains obtained from the multi-physics versus multi-model approaches for continental-scale hydrological simulations. Water Resources Research, 57(7), e2020WR028846. <https://doi.org/10.1029/2020WR028846>
 1. Li, Lingcheng; Yang, Zong-Liang\*; Matheny, Ashley M.; *Zheng, Hui*; Swenson, Sean C.; Lawrence, David M.; Barlage, Michael; Yan, Binyan; McDowell, Nate G. & Leung, L. Ruby (2021). Representation of plant hydraulics in the Noah‐MP land surface model: Model development and multi-scale evaluation. Journal of Advances in Modeling Earth Systems, 13(4), e2020MS002214. <https://doi.org/10.1029/2020MS002214>
