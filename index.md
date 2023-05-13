@@ -17,6 +17,7 @@ My research focuses on:
 
 ### Publications
 
+1. *Zheng, Hui*; Fei, Wenli; Yang, Zong-Liang*; Wei, Jiangfeng; Zhao, Long; Li, Lingcheng; Wang, Shu (2023). [An ensemble of 48 physically perturbed model estimates of the 1∕8° terrestrial water budget over the conterminous United States](https://github.com/hzheng88/paper-2023-ESSD-nldas-noahmp-water), 1980–2015. Earth System Science Data, 15(6), 2755-2780. <https://doi.org/10.5194/essd-15-2755-2023>
 1. Huang, Fang; Xu, Zhongfeng\*; Guo, Weidong; Feng, Jinming; Chen, Liang; *Zheng, Hui*; Fu, Congbin (2023). Relative contributions of internal variability and external forcing to the inter-decadal transition of climate patterns in East Asia. npj Climate and Atmospheric Science, 6(1), 1-9. <https://doi.org/10.1038/s41612-023-00351-0>
 1. Zhao, Long\*; Yang, Kun; He, Jie; *Zheng, Hui*; Zheng, Donghai (2022). Potential of mapping global soil texture type from SMAP soil moisture product: a pilot study. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-10. <https://doi.org/10.1109/TGRS.2021.3119667>
 1. Fei, Wenli; *Zheng, Hui*\*; Xu, Zhongfeng; Wu, Wen-Ying; Lin, Peirong; Tian, Ye; Guo, Mengyao; She, Dunxian; Li, Lingcheng; Li, Kai; Yang, Zong-Liang\* (2021). Ensemble skill gains obtained from the multi-physics versus multi-model approaches for continental-scale hydrological simulations. Water Resources Research, 57(7), e2020WR028846. <https://doi.org/10.1029/2020WR028846>
