@@ -17,6 +17,7 @@ My research focuses on:
 
 ### Publications
 
+1. Yue, Xu*; Zhou, Hao*; Tian, Chenguang; Ma, Yimian; Hu, Yihan; Gong, Cheng; *Zheng, Hui*; Liao, Hong (2024) Development and evaluation of the interactive Model for Air Pollution and Land Ecosystems (iMAPLE) version 1.0. Geoscientific Model Development, 17(11), 4621-4642. <https://doi.org/10.5194/gmd-17-4621-2024>
 1. Song, Zongpeng; Wang, Bo; *Zheng, Hui* *; Jin, Shuanglong; Liu, Xiaolin; Hua, Shenbing (2024) [Gridded assessment of mainland China’s solar energy resources using the typical meteorological year method and China Meteorological Forcing Dataset](https://github.com/hzheng88/paper-2024-china-solar-tmy-cmfd). Atmosphere, 15(2), 225. <https://doi.org/10.3390/atmos15020225>
 1. Song, Zongpeng; Wang, Bo; *Zheng, Hui* *; Wang, Shu; Liu, Xiaolin; Jin, Shuanglong (2024). [Interannual variation in mainland China’s atmosphere clearness index associated with El Niño–Southern Oscillation](https://github.com/hzheng88/paper-2024-enso-china-clearness-iav). Atmosphere, 15(2), 180. <https://doi.org/10.3390/atmos15020180>
 1. Peng, Jing; Li, Kai; Dan, Li; Tang, Xiba; Xu, Zhongfeng; Zou, Liwei; *Zheng, Hui*; Zhang, Taotao (2023). Sea–air coupling leads to a decrease in precipitation in East Asia under present day conditions that is partially alleviated in future simulations. npj Climate and Atmospheric Science, 6, 174. <https://doi.org/10.1038/s41612-023-00498-w>
