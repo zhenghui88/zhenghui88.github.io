@@ -17,6 +17,7 @@ My research focuses on:
 
 ### Publications
 
+1. Sun, Shanshan; Li, Lingcheng\*; Yang, Zong-Liang; Wang, Guilin; McDowell, Nate G.; Matheny, Ashley M.; Wu, Jian; Xu, Shiqin; *Zheng, Hui*; Yu, Miao, & Wang, Dagang (2024). Refining water and carbon fluxes modeling in terrestrial ecosystems via plant hydraulics integration. Agricultural and Forest Meteorology, 359, 110256. <https://doi.org/10.1016/j.agrformet.2024.110256>
 1. Cai, Xitian; Cao, Yeer; Zhang, Guo\*; Liang, Jingjing; *Zheng, Hui\**; Li, Kai; Zeng, Zhenzhong; Dai, Yongjiu; Yang, Zong-Liang (2024) Influence of terrestrial nitrogen dynamics on mesoscale near surface meteorological fields. Journal of Geophysical Research: Atmospheres, 129(14), e2023JD040168. <https://doi.org/10.1029/2023JD040168>
 1. Yang, Xi; Wei, Chong; Li, Zhiping; Yang, Heng; *Zheng, Hui\** (2024) [A stream order family and order based parallel river network routing method](https://github.com/hzheng88/paper-2024-stream-order-parallel-yangtze). Water, 16(14), 1965. <https://doi.org/10.3390/w16141965>
 1. Yue, Xu\*; Zhou, Hao\*; Tian, Chenguang; Ma, Yimian; Hu, Yihan; Gong, Cheng; *Zheng, Hui*; Liao, Hong (2024) Development and evaluation of the interactive Model for Air Pollution and Land Ecosystems (iMAPLE) version 1.0. Geoscientific Model Development, 17(11), 4621-4642. <https://doi.org/10.5194/gmd-17-4621-2024>
