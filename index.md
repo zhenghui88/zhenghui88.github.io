@@ -18,6 +18,7 @@ My research focuses on:
 
 ### Publications
 
+1. Yang, Heng; Chen, Shuanglong; Bian, Qingyun; *Zheng, Hui*\* (2025) Evaluation of atmospheric model parameterization schemes with river network routing and streamflow observations: A case study of the Yarlung Zangbo River on the Tibetan Plateau. Water Resources Research (under review).
 1. Li, Kai; Dan, Li\*; Zou, Liwei; *Zheng, Hui*; Xu, Zhongfeng; Tang, Jianping; Peng, Jing; Zheng, Ziyan; Yang, Fuqiang; Pan, Wei; Yang, Zong-Liang (2025) Mechanistic insights into regional air-sea coupling effects on east Asian summer climate: a comparative modeling study with a new regional Earth system model. Journal of Geophysical Research: Atmospheres (accepted). <https://doi.org/10.1029/2025JD044975>
 1. Pan, Wei; Dan, Li\*; Peng, Jing; Yang, Qing; *Zheng, Hui*; Yang, Fuqiang; Li, Kai; Zhou, Peng; Li, Younong; He, Shuaichen (2025) Why hydrological memory dominates in low‐latitude highlands: a mechanistic shift in ecosystem response to extremes. AGU Advances, 6(6), e2025AV001973. <https://doi.org/10.1029/2025AV001973>
 1. Wei, Yiheng; She, Dunxian\*; *Zheng, Hui*\*; Wang, Lvlv; Xia, Jun (2026) Precipitation deficit related drought induces the decrease in the sensitivity of GPP to air temperature and radiation in mainland China. Journal of Hydrology, 664, 134333. <https://doi.org/10.1016/j.jhydrol.2025.134333>
