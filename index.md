@@ -20,6 +20,7 @@ My research focuses on:
 
 ## Publications
 
+1. Yang, Heng; Chen, Shuanglong; Bian, Qingyun; *Zheng, Hui*\* (2026). [Evaluation of atmospheric models over mountainous regions using a parsimonious network routing model and streamflow observations: A case study of the Yarlung Zangbo River on the Tibetan Plateau](https://github.com/zhenghui88/paper-2026-yarlungzangbo-wrf-streamflow). *Water Resources Research*, 62, e2024WR038564. <https://doi.org/10.1029/2024WR038564>
 1. Bian, Qingyun; Wang, Shu; Yang, Heng; *Zheng, Hui*\* (2026). [Intercomparison and sensitivity analysis of WRF parameterization schemes for convection-permitting modeling of precipitation distribution along the Yarlung Zangbo River](https://github.com/zhenghui88/paper-2026-yarlungzangbo-wrf-precip-distance-to-drainage). *Atmospheric Research*, 336, 108827. <https://doi.org/10.1016/j.atmosres.2026.108827>
 1. Fei, Wenli; *Zheng, Hui*\*; Xu, Zhongfeng; Li, Kai; Wang, Shu; Liu, Yage; Li, Rongping; Yang, Zong-Liang\* (2026). Climatic aridity modulates the spatial variations in the responses of terrestrial water budget terms to El Niño–Southern Oscillation. *Geoscience Letters*, 13(1), 10. <https://doi.org/10.1186/s40562-026-00459-0>
 1. Wei, Yiheng; She, Dunxian\*; *Zheng, Hui*\*; Wang, Lvlv; Xia, Jun (2026). Precipitation deficit related drought induces the decrease in the sensitivity of GPP to air temperature and radiation in mainland China. *Journal of Hydrology*, 664, 134333. <https://doi.org/10.1016/j.jhydrol.2025.134333>
