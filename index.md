@@ -11,12 +11,14 @@ Office: [40 Huayanli #2.302, Chaoyang, Beijing, China](https://cn.bing.com/maps?
 I am a senior engineer at [Institute of Atmospheric Physics](http://www.iap.cas.cn/), [Chinese Academy of Sciences](http://www.cas.cn/).
 
 My research focuses on:
+
 - regional Earth system model development,
 - physics-data integration,
 - high-resolution hindcast, nowcast, and forecast of droughts and floods over large domains.
 
 ### Publications
 
+1. Chen, Shuanglong; Yang, Heng; *Zheng, Hui*\* (2025) [Intercomparison of runoff and river discharge reanalysis datasets at the Upper Jinsha River, an alpine river on the eastern edge of the Tibetan Plateau](https://github.com/hzheng88/paper-2025-upperjsj-streamflow-intercomp). Water, 17(6), 871. <https://doi.org/10.3390/w17060871
 1. Lei, Xiangyong; Lin, Peirong\*; *Zheng, Hui*; Fei, Wenli; Yin, Ziyun; Ren, Huazhong (2025). Systematic analyses of the meteorological forcing and process parameterization uncertainties in modeling runoff with Noah-MP for the Upper Brahmaputra river basin. Journal of Hydrology, 653, 132686. <https://doi.org/10.1016/j.jhydrol.2025.132686>
 1. Sun, Shanshan; Li, Lingcheng\*; Yang, Zong-Liang; Wang, Guilin; McDowell, Nate G.; Matheny, Ashley M.; Wu, Jian; Xu, Shiqin; *Zheng, Hui*; Yu, Miao, & Wang, Dagang (2024). Refining water and carbon fluxes modeling in terrestrial ecosystems via plant hydraulics integration. Agricultural and Forest Meteorology, 359, 110256. <https://doi.org/10.1016/j.agrformet.2024.110256>
 1. Cai, Xitian; Cao, Yeer; Zhang, Guo\*; Liang, Jingjing; *Zheng, Hui\**; Li, Kai; Zeng, Zhenzhong; Dai, Yongjiu; Yang, Zong-Liang (2024) Influence of terrestrial nitrogen dynamics on mesoscale near surface meteorological fields. Journal of Geophysical Research: Atmospheres, 129(14), e2023JD040168. <https://doi.org/10.1029/2023JD040168>
