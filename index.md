@@ -18,6 +18,7 @@ My research focuses on:
 
 ### Publications
 
+1. Wei, Yiheng; She, Dunxian\*; *Zheng, Hui*\*; Wang, Lvlv; Xia, Jun (2026) Precipitation deficit related drought induces the decrease in the sensitivity of GPP to air temperature and radiation in mainland China. Journal of Hydrology, 664, 134333. <https://doi.org/10.1016/j.jhydrol.2025.134333>
 1. Yang, Heng; Chen, Shuanglong; *Zheng, Hui*\* (2025) [Technical note: Drainage density-preserving river network delineation algorithm](https://github.com/hzheng88/paper-2025-density-preserving-river-extraction). Water, 17(11), 1636. <https://doi.org/10.3390/w17111636>
 1. Chen, Shuanglong; Yang, Heng; *Zheng, Hui*\* (2025) [Intercomparison of runoff and river discharge reanalysis datasets at the Upper Jinsha River, an alpine river on the eastern edge of the Tibetan Plateau](https://github.com/hzheng88/paper-2025-upperjsj-streamflow-intercomp). Water, 17(6), 871. <https://doi.org/10.3390/w17060871
 1. Lei, Xiangyong; Lin, Peirong\*; *Zheng, Hui*; Fei, Wenli; Yin, Ziyun; Ren, Huazhong (2025). Systematic analyses of the meteorological forcing and process parameterization uncertainties in modeling runoff with Noah-MP for the Upper Brahmaputra river basin. Journal of Hydrology, 653, 132686. <https://doi.org/10.1016/j.jhydrol.2025.132686>
