@@ -18,6 +18,7 @@ My research focuses on:
 
 ### Publications
 
+1. Li, Kai; Dan, Li\*; Zou, Liwei; *Zheng, Hui*; Xu, Zhongfeng; Tang, Jianping; Peng, Jing; Zheng, Ziyan; Yang, Fuqiang; Pan, Wei; Yang, Zong-Liang (2026) Mechanistic insights into regional air-sea coupling effects on East Asian summer climate: a comparative modeling study with a new regional Earth system model. Journal of Geophysical Research: Atmospheres, 131(1), e2025JD044975. <https://doi.org/10.1029/2025JD044975>
 1. Pan, Wei; Dan, Li\*; Peng, Jing; Yang, Qing; *Zheng, Hui*; Yang, Fuqiang; Li, Kai; Zhou, Peng; Li, Younong; He, Shuaichen (2025) Why hydrological memory dominates in low‐latitude highlands: a mechanistic shift in ecosystem response to extremes. AGU Advances, 6(6), e2025AV001973. <https://doi.org/10.1029/2025AV001973>
 1. Yang, Heng; Chen, Shuanglong; *Zheng, Hui*\* (2025) [Technical note: Drainage density-preserving river network delineation algorithm](https://github.com/hzheng88/paper-2025-density-preserving-river-extraction). Water, 17(11), 1636. <https://doi.org/10.3390/w17111636>
 1. Chen, Shuanglong; Yang, Heng; *Zheng, Hui*\* (2025) [Intercomparison of runoff and river discharge reanalysis datasets at the Upper Jinsha River, an alpine river on the eastern edge of the Tibetan Plateau](https://github.com/hzheng88/paper-2025-upperjsj-streamflow-intercomp). Water, 17(6), 871. <https://doi.org/10.3390/w17060871
