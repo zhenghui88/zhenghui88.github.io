@@ -56,7 +56,9 @@ My research focuses on:
 
 ## Projects
 
+1. 2023–2025: Development of a coupled WRF and river network routing model for the assessment of wind, solar, and hydro resources in the Lower Jinsha River. China Yangtze Power Co., Ltd., ¥3M, PI.
 1. 2023–2026: Falsification-oriented signature-based evaluation methods of the scientific hypotheses underlying land surface models using multiple imbalanced energy and water budget observations. National Natural Science Foundation of China (Grant No. 42275178), ¥715K, PI.
+1. 2022–2023: Earth system modeling based flood forecasting technology. Huawei Technologies Co., Ltd., ¥1.68M, PI.
 1. 2021–2024: A global-scale soil moisture multi-parameterization inter-comparison experiment. National Natural Science Foundation of China (Grant No. 42075165), ¥677K, PI.
 1. 2017–2019: The effects of the Grain for Green Project on the regional terrestrial water storage in the Loess Plateau using ensemble hydrological simulations. National Natural Science Foundation of China (Grant No. 41605062), ¥224K, PI.
 
