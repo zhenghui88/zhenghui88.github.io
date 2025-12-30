@@ -6,7 +6,7 @@ ORCID: [0000-0001-7580-9128](https://orcid.org/0000-0001-7580-9128)
 
 Email: hui (DOT) zheng (AT) outlook (dot) com
 
-Office: [40 Huayanli #2.301, Chaoyang, Beijing, China](https://cn.bing.com/maps?osid=56f8695e-60ef-4ab5-b54a-18b903d45212&cp=39.977182~116.391812&lvl=14&v=2&sV=2&form=S00027)
+Office: [81 Beichen West Road #2.301, Chaoyang, Beijing 100029, China](https://cn.bing.com/maps?osid=56f8695e-60ef-4ab5-b54a-18b903d45212&cp=39.977182~116.391812&lvl=14&v=2&sV=2&form=S00027)
 
 ## About Me
 
