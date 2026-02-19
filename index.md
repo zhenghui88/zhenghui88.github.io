@@ -20,6 +20,7 @@ My research focuses on:
 
 ## Publications
 
+1. *郑辉*, 丹利\*, 符淙斌, 杨宗良, 赵得明, 冯锦明, 徐忠峰, 韩志伟, 王淑瑜, 吴涧, 杨清华, 汤剑平, 邹立维, 袁星, 陈报章, 李凯, 熊喆, 马柱国, 彭静, 郑子彦, 李嘉伟, 张耀存, 刘红年, 李明星, 王永立, 陈亮, 杨富强, 冯洋, 王传印 (2026). [区域地球系统集成模式 (RIEMS) 的研发进展与未来展望](https://github.com/zhenghui88/paper-2026-riems-review). *科学通报*. <https://doi.org/10.1360/CSB-2025-5854>
 1. Yang, Heng; Chen, Shuanglong; Bian, Qingyun; *Zheng, Hui*\* (2026). [Evaluation of atmospheric models over mountainous regions using a parsimonious network routing model and streamflow observations: A case study of the Yarlung Zangbo River on the Tibetan Plateau](https://github.com/zhenghui88/paper-2026-yarlungzangbo-wrf-streamflow). *Water Resources Research*, 62, e2024WR038564. <https://doi.org/10.1029/2024WR038564>
 1. Bian, Qingyun; Wang, Shu; Yang, Heng; *Zheng, Hui*\* (2026). [Intercomparison and sensitivity analysis of WRF parameterization schemes for convection-permitting modeling of precipitation distribution along the Yarlung Zangbo River](https://github.com/zhenghui88/paper-2026-yarlungzangbo-wrf-precip-distance-to-drainage). *Atmospheric Research*, 336, 108827. <https://doi.org/10.1016/j.atmosres.2026.108827>
 1. Fei, Wenli; *Zheng, Hui*\*; Xu, Zhongfeng; Li, Kai; Wang, Shu; Liu, Yage; Li, Rongping; Yang, Zong-Liang\* (2026). Climatic aridity modulates the spatial variations in the responses of terrestrial water budget terms to El Niño–Southern Oscillation. *Geoscience Letters*, 13(1), 10. <https://doi.org/10.1186/s40562-026-00459-0>
