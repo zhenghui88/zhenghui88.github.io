@@ -20,6 +20,7 @@ My research focuses on:
 
 ## Publications
 
+1. Fei, Wenli; *Zheng, Hui*\*; Lin, Peirong; Yang, Zong-Liang\*; Lei, Xiangyong; Li, Kai; Wang, Anzhi; Wu, Jiabing; Shen, Lidu; Liu, Yage; Zhang, Yuan; Li, Rongping (2026). Assimilating GRACE data for improved modeling of the terrestrial hydrological cycle and its response to ENSO with the Noah‐MP multi‐physics ensemble. *Journal of Geophysical Research: Atmospheres*, 131(16), e2026JD046517. <https://doi.org/10.1029/2026JD046517>
 1. Li, Kai; Xu, Jianwei; Dan, Li; Zheng, Ziyan; Pan, Wei; Yang, Fuqiang; Chen, Jinyan; Zhou, Peng; Xing, Liwen; *Zheng, Hui*\* (2026). Divergent trends of surface solar radiation across China (1994–2022): Integrating ground observations with satellite products for regional attribution. *Remote Sensing*, 18(16), 2782. <https://doi.org/10.3390/rs18162782>
 1. *郑辉*, 丹利\*, 符淙斌, 杨宗良, 赵得明, 冯锦明, 徐忠峰, 韩志伟, 王淑瑜, 吴涧, 杨清华, 汤剑平, 邹立维, 袁星, 陈报章, 李凯, 熊喆, 马柱国, 彭静, 郑子彦, 李嘉伟, 张耀存, 刘红年, 李明星, 王永立, 陈亮, 杨富强, 冯洋, 王传印 (2026). [区域地球系统集成模式 (RIEMS) 的研发进展与未来展望](https://github.com/zhenghui88/paper-2026-riems-review). *科学通报*, 71(13), 2896-2903. <https://doi.org/10.1360/CSB-2025-5854>
 1. Yang, Heng; Chen, Shuanglong; Bian, Qingyun; *Zheng, Hui*\* (2026). [Evaluation of atmospheric models over mountainous regions using a parsimonious network routing model and streamflow observations: A case study of the Yarlung Zangbo River on the Tibetan Plateau](https://github.com/zhenghui88/paper-2026-yarlungzangbo-wrf-streamflow). *Water Resources Research*, 62(2), e2024WR038564. <https://doi.org/10.1029/2024WR038564>
